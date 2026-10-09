@@ -3,7 +3,7 @@ from difflib import SequenceMatcher
 import time
 # --- CONFIGURACIÓN Y ESTILO ---
 # Esto pone tu banner al principio de la página
-st.image("banner.png.png", use_container_width=True)
+
 
 def local_css():
     st.markdown("""
