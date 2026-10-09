@@ -77,7 +77,7 @@ preguntas_db = [
     {"p": "Signos principales en un toxíndrome colinérgico", "r": [("Bradicardia", 30), ("Miosis", 25), ("Sialorrea", 20), ("Epifora", 15), ("Fasciculaciones musculares", 10)]},
     {"p": "Agentes etiológicos más frecuentes en OMA", "r": [("Streptococcus pneumoniae", 30), ("Haemophilus influenzae", 25), ("Moraxella catarrhalis", 20), ("Streptococcus pyogenes", 15), ("Pseudomonas", 10)]},
     {"p": "Principales agentes de Diarrea Infecciosa en < 1 año", "r": [("Rotavirus", 30), ("Adenovirus entérico", 25), ("E. coli", 20), ("Campylobacter jejuni", 15), ("Salmonella", 10)]},
-    {"p": "Datos de dificultad respiratoria (Silverman-Andersen) por orden", "r": [("Disociación toraco-abdominal", 30), ("Tiraje intercostal", 25), ("Retracción xifoidea", 20), ("Aleteo nasal", 15), ("Quejido respiratorio", 10)]},
+    {"p": "cielitomixmix de dificultad respiratoria (Silverman-Andersen) por orden", "r": [("Disociación toraco-abdominal", 30), ("Tiraje intercostal", 25), ("Retracción xifoidea", 20), ("Aleteo nasal", 15), ("Quejido respiratorio", 10)]},
     {"p": "Las 5 H de causas reversibles en paro cardiaco pediátrico", "r": [("Hipoxia", 30), ("Hipovolemia", 25), ("Hidrogeniones", 20), ("Hiper/Hipokalemia", 15), ("Hipotermia", 10)]},
     {"p": "Las 5 T de causas reversibles en paro cardiaco pediátrico", "r": [("Neumotórax a tensión", 30), ("Tóxicos", 25), ("Taponamiento cardiaco", 20), ("Trombosis pulmonar", 15), ("Trombosis coronaria", 10)]},
     {"p": "Características de deshidratación con Choque Hipovolémico", "r": [("Llenado capilar >2 seg", 30), ("Estado general hipotónico", 25), ("Pulso débil o ausente", 20), ("No puede beber", 15), ("Taquicardia", 10)]},
