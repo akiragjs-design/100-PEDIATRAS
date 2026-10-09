@@ -76,10 +76,10 @@ preguntas_db = [
     {"p": "Principales agentes virales que generan resfriado común", "r": [("Rinovirus", 30), ("Coronavirus", 25), ("Virus Parainfluenza", 20), ("Virus Influenza", 15), ("Adenovirus", 10)]},
     {"p": "Signos principales en un toxíndrome colinérgico", "r": [("Bradicardia", 30), ("Miosis", 25), ("Sialorrea", 20), ("Epifora", 15), ("Fasciculaciones musculares", 10)]},
     {"p": "Agentes etiológicos más frecuentes en OMA", "r": [("Streptococcus pneumoniae", 30), ("Haemophilus influenzae", 25), ("Moraxella catarrhalis", 20), ("Streptococcus pyogenes", 15), ("Pseudomonas", 10)]},
-    {"p": "Principales agentes de Diarrea Infecciosa en < 1 año", "r": [("Rotavirus", 30), ("Adenovirus entérico", 25), ("E. coli", 20), ("Campylobacter jejuni", 15), ("Salmonella", 10)]},
+    {"p": "Tóxicos hipnótico-sedantes", "r": [("Benzodiacepinas", 30), ("Fenobarbital", 25), ("Etanol", 20), ("Gammahidroxibutirato", 15), ("Anticonvulsivos", 10)]},
     {"p": "Principales ejemplos de serotoninérgicos", "r": [("Sertralina", 30), ("Fluoxetina", 25), ("Paroxetina", 20), ("Citalopram", 15), ("Ácido valproico", 10)]},
     {"p": "Manifestaciones clínicas del toxíndrome por simpaticomiméticos", "r": [("Taquicardia", 30), ("Hipertensión", 25), ("Agitación", 20), ("Hipertermia", 15), ("Diaforesis", 10)]},
-    {"p": "Agentes etiológicos de diarrea invasiva (Con sangre)", "r": [("Shigella", 30), ("Campylobacter jejuni", 25), ("Salmonella", 20), ("E. coli enteroinvasiva", 15), ("Yersinia enterocolitica", 10)]},
+    {"p": "Animales venenosos en México (Frecuencia)", "r": [("Alacrán", 30), ("Araña viuda negra", 25), ("Víbora de cascabel", 20), ("Araña violinista", 15), ("Serpiente coralillo", 10)]},
     {"p": "Características de deshidratación con Choque Hipovolémico", "r": [("Llenado capilar >2 seg", 30), ("Estado general hipotónico", 25), ("Pulso débil o ausente", 20), ("No puede beber", 15), ("Taquicardia", 10)]},
     {"p": "Dispositivos para el manejo de la Vía Aérea", "r": [("Mascarilla facial", 30), ("BVM", 25), ("Cánula orofaríngea", 20), ("Mascarilla laríngea", 15), ("Tubo endotraqueal", 10)]},
     {"p": "Criterios de Centor Modificados", "r": [("Exudado amigdalar", 30), ("Adenopatías cervicales", 25), ("Fiebre >38C", 20), ("Ausencia de tos", 15), ("Edad 3-14 años", 10)]},
@@ -91,8 +91,8 @@ preguntas_db = [
     {"p": "Orden de visualización en laringoscopia (Intubación)", "r": [("Base de la lengua", 30), ("Epiglotis", 25), ("Vallécula", 20), ("Glotis", 15), ("Cuerdas vocales", 10)]},
     {"p": "Criterios de Centor Modificados", "r": [("Exudado amigdalar", 30), ("Adenopatías cervicales", 25), ("Fiebre >38C", 20), ("Ausencia de tos", 15), ("Edad 3-14 años", 10)]},
     {"p": "Animales venenosos en México (Frecuencia)", "r": [("Alacrán", 30), ("Araña viuda negra", 25), ("Víbora de cascabel", 20), ("Araña violinista", 15), ("Serpiente coralillo", 10)]},
-    {"p": "Factores de riesgo para sepsis neonatal temprana", "r": [("RPM >18 HR", 30), ("Corioamnionitis", 25), ("Prematurez extrema", 20), ("SGBB", 15), ("Sexo masculino", 10)]},
-    {"p": "Factores de riesgo maternos para TTRN", "r": [("Cesárea programada", 30), ("Diabetes Mellitus", 25), ("Asma materna", 20), ("Tabaquismo", 15), ("Parto precipitado", 10)]}
+    {"p": "Agentes etiológicos de diarrea invasiva (Con sangre)", "r": [("Shigella", 30), ("Campylobacter jejuni", 25), ("Salmonella", 20), ("E. coli enteroinvasiva", 15), ("Yersinia enterocolitica", 10)]},
+    {"p": "Principales agentes de Diarrea Infecciosa en < 1 año", "r": [("Rotavirus", 30), ("Adenovirus entérico", 25), ("E. coli", 20), ("Campylobacter jejuni", 15), ("Salmonella", 10)]},
 ]
 
 # --- ESTADO DEL JUEGO ---
